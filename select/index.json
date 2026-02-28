@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "オレンジスケール",
+  "base_artist": "長瀬有花",
+  "createdAt": "2026-02-28T09:29:22.697371Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "オレンジスケール",
+      "artist": "長瀬有花",
+      "has_synced": false,
+      "path": "select/pl_01_オレンジスケール_長瀬有花.txt"
+    }
+  ]
+}
